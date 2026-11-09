@@ -1,6 +1,6 @@
 # Aviso de privacidad — Riviera MTB GPS
 
-*Última actualización: 6 de noviembre de 2026*
+*Última actualización: 9 de noviembre de 2026*
 
 Riviera MTB GPS es una app de ciclocomputador y navegación para ciclismo, carrera y caminata, hecha por Riviera MTB (Playa del Carmen, Quintana Roo, México). Este aviso explica qué datos usa la app y para qué.
 
@@ -23,6 +23,7 @@ Riviera MTB GPS es una app de ciclocomputador y navegación para ciclismo, carre
 - **Strava y Tredict:** si conectas tu cuenta, la app sube las actividades que tú elijas o las que configures para subir. Esos datos quedan sujetos a las políticas de privacidad de Strava y de Tredict. Puedes desconectarlas en cualquier momento desde Ajustes.
 - **Mensajes a tus contactos:** el texto puede incluir tu ubicación (enlace de Google Maps), tu nivel de batería y datos del recorrido.
 - **Compartir y exportar:** imágenes, GPX y FIT se comparten con la app que tú elijas.
+- **Coach con IA (opcional):** si conectas tu propia cuenta de IA (Claude de Anthropic, ChatGPT de OpenAI o Gemini de Google), lo que escribas en el formulario del coach (por ejemplo edad, peso, estatura, horas de entreno, objetivo y, si decides incluirlas, condiciones de salud) y los mensajes del chat se envían **directamente** del teléfono al proveedor que elegiste, con tu clave o desde su app. Quedan sujetos al aviso de privacidad de ese proveedor. Riviera MTB no recibe ni guarda esa información. Tu clave de API se guarda cifrada solo en tu teléfono y puedes borrarla en cualquier momento.
 - **App de Windows (opcional):** si la conectas en tu red Wi-Fi, el celular puede mandarle tus salidas como respaldo. No sale de tu red.
 
 ## Servicios de terceros que la app consulta
