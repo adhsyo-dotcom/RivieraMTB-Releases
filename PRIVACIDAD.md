@@ -35,7 +35,7 @@ Riviera MTB GPS es una app de ciclocomputador y navegación para ciclismo, carre
 Ubicación (para grabar y navegar), Bluetooth (sensores), notificaciones (estado del recorrido, avisos y logros), servicio en primer plano (seguir grabando con la pantalla apagada) y vibración.
 
 ## Tus derechos
-Todo lo que guarda la app está en tu teléfono: puedes borrar recorridos desde el historial, o todo desinstalando la app o borrando sus datos en Ajustes de Android. Para dudas sobre este aviso escríbenos al correo de contacto que aparece en la ficha de la app en Google Play.
+Todo lo que guarda la app está en tu teléfono: puedes borrar recorridos desde el historial, o todo desinstalando la app o borrando sus datos en Ajustes de Android. Para dudas sobre este aviso escríbenos a adhsyo@gmail.com.
 
 ## Menores de edad
 La app está dirigida a personas mayores de 13 años.
