@@ -40,7 +40,9 @@ Riviera MTB GPS no tiene cuentas: casi todo lo que guarda está solo en tu telé
 - **Todo lo de la app:** desinstálala o, en Ajustes de Android → Apps → Riviera MTB GPS → Almacenamiento, toca "Borrar datos".
 - **Strava y Tredict:** desconéctalos en la app; lo que ya subiste se borra desde tu cuenta en esos servicios.
 - **Coach con IA:** "Quitar clave" y "Borrar plan" en la app; lo que enviaste a la IA se borra desde tu cuenta con ese proveedor.
-- **Estadísticas de Noticias** (identificador aleatorio): escríbenos a **adhsyo@gmail.com** con el asunto "Borrar mis datos" y los eliminamos en un máximo de 30 días.
+- **Estadísticas de Noticias** (identificador aleatorio): escríbenos a **adhsyo@gmail.com** con el asunto "Borrar mis datos · Riviera MTB GPS" e incluye tu identificador (aparece al final de Configuración en la app: "Identificador de estadísticas"). Las eliminamos en un máximo de 30 días.
+
+**Qué se borra y qué se conserva:** al borrar los datos de la app se elimina todo lo que guarda en tu teléfono (recorridos, rutas, perfil, zonas, metas, contactos de emergencia y ajustes). Al pedir el borrado por correo eliminamos los registros de vistas y clics de Noticias ligados a tu identificador. Riviera MTB no conserva ningún otro dato tuyo ni guarda copias adicionales. Lo que hayas subido a Strava, Tredict o a tu proveedor de IA lo conserva cada servicio según sus propias políticas.
 
 ## Tus derechos
 Para dudas sobre este aviso escríbenos a adhsyo@gmail.com.
