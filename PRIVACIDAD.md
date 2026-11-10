@@ -34,8 +34,16 @@ Riviera MTB GPS es una app de ciclocomputador y navegación para ciclismo, carre
 ## Permisos
 Ubicación (para grabar y navegar), Bluetooth (sensores), notificaciones (estado del recorrido, avisos y logros), servicio en primer plano (seguir grabando con la pantalla apagada) y vibración.
 
+## Cómo borrar tus datos
+Riviera MTB GPS no tiene cuentas: casi todo lo que guarda está solo en tu teléfono.
+- **Recorridos:** bórralos desde el Historial (uno por uno).
+- **Todo lo de la app:** desinstálala o, en Ajustes de Android → Apps → Riviera MTB GPS → Almacenamiento, toca "Borrar datos".
+- **Strava y Tredict:** desconéctalos en la app; lo que ya subiste se borra desde tu cuenta en esos servicios.
+- **Coach con IA:** "Quitar clave" y "Borrar plan" en la app; lo que enviaste a la IA se borra desde tu cuenta con ese proveedor.
+- **Estadísticas de Noticias** (identificador aleatorio): escríbenos a **adhsyo@gmail.com** con el asunto "Borrar mis datos" y los eliminamos en un máximo de 30 días.
+
 ## Tus derechos
-Todo lo que guarda la app está en tu teléfono: puedes borrar recorridos desde el historial, o todo desinstalando la app o borrando sus datos en Ajustes de Android. Para dudas sobre este aviso escríbenos a adhsyo@gmail.com.
+Para dudas sobre este aviso escríbenos a adhsyo@gmail.com.
 
 ## Menores de edad
 La app está dirigida a personas mayores de 13 años.
